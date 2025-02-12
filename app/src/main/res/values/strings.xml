@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NutritionApp</string>
+    <string name="arrow">arrow</string>
+    <string name="stars">stars</string>
+    <string name="professional_image">professional_image</string>
+    <string name="languages">languages</string>
+    <string name="back">back</string>
+    <string name="about_me">About me</string>
+    <string name="show_more">show more</string>
+    <string name="show_less">show less</string>
+    <string name="no_professionals_found">No professionals found!!!</string>
+    <string name="no_professionals">no_professionals</string>
+    <string name="cant_show_information_about_this_professional">Can´t show information about this professional</string>
+    <string name="cant_find_professionals">Can´t find professionals</string>
+</resources>
